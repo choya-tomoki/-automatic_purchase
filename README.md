@@ -1,2 +1,2 @@
 # automatic purchase 
-buy　
+buy mask automatically
