@@ -1,1 +1,2 @@
 # automatic purchase 
+buy　
